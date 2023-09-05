@@ -12,4 +12,4 @@
   <a href="https://www.linkedin.com/in/maria-eduarda-wendel-maia-74a375241/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DudaWendelMaia/DudaWendelMaia/blob/output/github-contribution-grid-snake.svg)
