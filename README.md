@@ -1,4 +1,4 @@
-### Oii! Eu sou a Duda Maia 👋
+### Hi! I'm Duda Maia 👋
 
 <div>
 <a href="https://github.com/DudaWendelMaia?tab=repositories" target="_blank">
