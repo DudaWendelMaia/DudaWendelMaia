@@ -1,4 +1,5 @@
-### Hi! I'm Duda Maia 👋
+<div>
+<h1>Hi! I'm Duda Maia <img src="https://media.tenor.com/0Tr2bkpHI2IAAAAi/hello.gif" width="50px"></h1>
 
 <div>
 <a href="https://github.com/DudaWendelMaia?tab=repositories" target="_blank">
