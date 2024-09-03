@@ -4,7 +4,7 @@
 
 <div>
   <h3>About me: </h3>
-  <p align="justify">I am 20 years old and passionate about games. Currently, I am in the fifth semester of Software Engineering at <a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">PUCRS</a>, where I have developed a great interest in the frontend area. I am interning at <a href="https://www.dbccompany.com.br/" target="_blank">DBC</a>, where I gain a lot of practical experience and improve my skills in backend and data analysis. Additionally, I am taking the second course of <a href="https://www.ages.pucrs.br/" target="_blank">AGES</a> (Experimental Software Agency), which allows me to further deepen my knowledge and skills in frontend development.</p>
+  <p align="justify">I am 20 years old and passionate about games. Currently, I am in the fifth semester of Software Engineering at <a href="https://www.pucrs.br/politecnica/curso/engenharia-de-software/#apresentacao" target="_blank">PUCRS</a>, where I have developed a great interest in the frontend area. I am interning at <a href="https://www.dell.com/pt-br" target="_blank">DELL</a>, where I gain a lot of practical experience and improve my skills in backend and data analysis. Additionally, I am taking the second course of <a href="https://www.ages.pucrs.br/" target="_blank">AGES</a> (Experimental Software Agency), which allows me to further deepen my knowledge and skills in frontend development.</p>
 </div>
 
 <div>
